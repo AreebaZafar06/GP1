@@ -1,0 +1,19 @@
+/* src/components/Footer.css */
+
+footer {
+    background-color: #f8f8f8;
+    padding: 20px;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    border-top: 1px solid #ddd;
+  }
+  
+  footer p {
+    margin: 0;
+    font-size: 14px;
+    color: #666;
+  }
+  
